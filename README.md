@@ -121,16 +121,6 @@ Tests were executed in isolation from the production database and helped identif
    docker-compose up
 3. Alternatively, run the backend directly from IntelliJ IDEA using the Run configuration.
 
-### Frontend
-1. Navigate to the frontend directory:
-
-```cd frontend
-
-2. Install dependencies and start the app:
-
-```npm install
-```npm run dev
-
 ### 📘 How to Use the Application
 
 1. Open the application and navigate to the **Task Lists** view.
