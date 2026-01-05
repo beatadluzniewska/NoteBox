@@ -125,12 +125,12 @@ Tests were executed in isolation from the production database and helped identif
 
 1. Navigate to the frontend directory.
 
-cd frontend
+```cd frontend
 
 2. Install dependencies and start the application.
 
-npm install
-npm run dev
+```npm install
+```npm run dev
 
 
 ### 📘 How to Use the Application
