@@ -131,7 +131,7 @@ Tests were executed in isolation from the production database and helped identif
 ```npm install
 ```npm run dev
 
-## 📘 How to Use the Application
+### 📘 How to Use the Application
 
 1. Open the application and navigate to the **Task Lists** view.
 2. Click **Create New Task List** to add a new category.
@@ -155,7 +155,7 @@ Deleting a task list removes all associated tasks (**cascade delete**).
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 **Backend:**  
 Java · Spring Boot · Spring Data JPA
@@ -180,7 +180,7 @@ CSS
 
 ---
 
-## 📌 Project Scope
+### 📌 Project Scope
 
 - Single-user application (no authentication)
 - Focus on core CRUD functionality and clean architecture
@@ -188,6 +188,6 @@ CSS
 
 ---
 
-## 📄 License
+### 📄 License
 
 This project was created for educational and portfolio purposes.
