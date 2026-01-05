@@ -117,21 +117,21 @@ Tests were executed in isolation from the production database and helped identif
 ### Backend (Docker)
 1. Open Docker
 2. Run:
-   ```bash
-   docker-compose up
+   ```docker-compose up```
 3. Alternatively, run the backend directly from IntelliJ IDEA using the Run configuration.
 
 ### Frontend
-
 1. Navigate to the frontend directory.
+      ```cd frontend```
 
-```cd frontend
+3. Install dependencies and start the application.
+   
+      ```npm install```
 
-2. Install dependencies and start the application.
 
-```npm install
-```npm run dev
+      ```npm run dev```
 
+---
 
 ### 📘 How to Use the Application
 
